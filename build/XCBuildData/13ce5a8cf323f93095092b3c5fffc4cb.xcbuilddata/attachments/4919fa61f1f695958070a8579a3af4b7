@@ -1,0 +1,10 @@
+framework module SideMenuSwift {
+  umbrella header "SideMenuSwift-iOS17.3-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SideMenuSwift.__Swift {
+  exclude header "SideMenuSwift-Swift.h"
+}

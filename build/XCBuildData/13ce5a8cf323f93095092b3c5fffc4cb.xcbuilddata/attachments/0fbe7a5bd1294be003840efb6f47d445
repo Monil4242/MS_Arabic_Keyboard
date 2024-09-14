@@ -1,0 +1,6 @@
+framework module Pods_Arabic_Keyboard_Ios {
+  umbrella header "Pods-Arabic Keyboard Ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

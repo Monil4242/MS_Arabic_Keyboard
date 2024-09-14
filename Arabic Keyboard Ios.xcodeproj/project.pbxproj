@@ -1,0 +1,1367 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3D00CF912BB2C75B000C5977 /* SideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D00CF902BB2C75B000C5977 /* SideMenuViewController.swift */; };
+		3D00CF932BB2CCB3000C5977 /* SideMenuTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D00CF922BB2CCB3000C5977 /* SideMenuTableViewCell.swift */; };
+		3D00CF952BB2DD92000C5977 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D00CF942BB2DD92000C5977 /* SettingsViewController.swift */; };
+		3D070DA42BB59A52000CDB74 /* GlobalFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D070DA32BB59A52000CDB74 /* GlobalFile.swift */; };
+		3D21D7862BCE573500713055 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF34782BA96E8E007BD974 /* Assets.xcassets */; };
+		3D21D7B52BCE774700713055 /* Pods_Arabic_Keyboard_Ex_.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3D21D7B42BCE774700713055 /* Pods_Arabic_Keyboard_Ex_.framework */; };
+		3D21D7B82BCE838300713055 /* Montserrat-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469E2BB69052001E2357 /* Montserrat-Black.ttf */; };
+		3D21D7B92BCE838300713055 /* Montserrat-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46942BB69051001E2357 /* Montserrat-BlackItalic.ttf */; };
+		3D21D7BA2BCE838300713055 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46972BB69052001E2357 /* Montserrat-Bold.ttf */; };
+		3D21D7BB2BCE838300713055 /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469D2BB69052001E2357 /* Montserrat-BoldItalic.ttf */; };
+		3D21D7BC2BCE838300713055 /* Montserrat-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46902BB69051001E2357 /* Montserrat-ExtraBold.ttf */; };
+		3D21D7BD2BCE838300713055 /* Montserrat-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46A02BB69052001E2357 /* Montserrat-ExtraBoldItalic.ttf */; };
+		3D21D7BE2BCE838300713055 /* Montserrat-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46912BB69051001E2357 /* Montserrat-ExtraLight.ttf */; };
+		3D21D7BF2BCE838300713055 /* Montserrat-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469B2BB69052001E2357 /* Montserrat-ExtraLightItalic.ttf */; };
+		3D21D7C02BCE838300713055 /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46922BB69051001E2357 /* Montserrat-Italic.ttf */; };
+		3D21D7C12BCE838300713055 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46A12BB69053001E2357 /* Montserrat-Light.ttf */; };
+		3D21D7C22BCE838400713055 /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46932BB69051001E2357 /* Montserrat-LightItalic.ttf */; };
+		3D21D7C32BCE838400713055 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469A2BB69052001E2357 /* Montserrat-Medium.ttf */; };
+		3D21D7C42BCE838400713055 /* Montserrat-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469C2BB69052001E2357 /* Montserrat-MediumItalic.ttf */; };
+		3D21D7C52BCE838400713055 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46982BB69052001E2357 /* Montserrat-Regular.ttf */; };
+		3D21D7C62BCE838400713055 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46952BB69051001E2357 /* Montserrat-SemiBold.ttf */; };
+		3D21D7C72BCE838400713055 /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469F2BB69052001E2357 /* Montserrat-SemiBoldItalic.ttf */; };
+		3D21D7C82BCE838400713055 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46992BB69052001E2357 /* Montserrat-Thin.ttf */; };
+		3D21D7C92BCE838400713055 /* Montserrat-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46962BB69052001E2357 /* Montserrat-ThinItalic.ttf */; };
+		3D21D7CA2BCE839E00713055 /* Montserrat-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469E2BB69052001E2357 /* Montserrat-Black.ttf */; };
+		3D21D7CB2BCE839E00713055 /* Montserrat-BlackItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46942BB69051001E2357 /* Montserrat-BlackItalic.ttf */; };
+		3D21D7CC2BCE839E00713055 /* Montserrat-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46972BB69052001E2357 /* Montserrat-Bold.ttf */; };
+		3D21D7CD2BCE839E00713055 /* Montserrat-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469D2BB69052001E2357 /* Montserrat-BoldItalic.ttf */; };
+		3D21D7CE2BCE839E00713055 /* Montserrat-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46902BB69051001E2357 /* Montserrat-ExtraBold.ttf */; };
+		3D21D7CF2BCE839E00713055 /* Montserrat-ExtraBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46A02BB69052001E2357 /* Montserrat-ExtraBoldItalic.ttf */; };
+		3D21D7D02BCE839E00713055 /* Montserrat-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46912BB69051001E2357 /* Montserrat-ExtraLight.ttf */; };
+		3D21D7D12BCE839F00713055 /* Montserrat-ExtraLightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469B2BB69052001E2357 /* Montserrat-ExtraLightItalic.ttf */; };
+		3D21D7D22BCE839F00713055 /* Montserrat-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46922BB69051001E2357 /* Montserrat-Italic.ttf */; };
+		3D21D7D32BCE839F00713055 /* Montserrat-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46A12BB69053001E2357 /* Montserrat-Light.ttf */; };
+		3D21D7D42BCE839F00713055 /* Montserrat-LightItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46932BB69051001E2357 /* Montserrat-LightItalic.ttf */; };
+		3D21D7D52BCE839F00713055 /* Montserrat-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469A2BB69052001E2357 /* Montserrat-Medium.ttf */; };
+		3D21D7D62BCE839F00713055 /* Montserrat-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469C2BB69052001E2357 /* Montserrat-MediumItalic.ttf */; };
+		3D21D7D72BCE839F00713055 /* Montserrat-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46982BB69052001E2357 /* Montserrat-Regular.ttf */; };
+		3D21D7D82BCE839F00713055 /* Montserrat-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46952BB69051001E2357 /* Montserrat-SemiBold.ttf */; };
+		3D21D7D92BCE839F00713055 /* Montserrat-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C469F2BB69052001E2357 /* Montserrat-SemiBoldItalic.ttf */; };
+		3D21D7DA2BCE839F00713055 /* Montserrat-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46992BB69052001E2357 /* Montserrat-Thin.ttf */; };
+		3D21D7DB2BCE839F00713055 /* Montserrat-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3D9C46962BB69052001E2357 /* Montserrat-ThinItalic.ttf */; };
+		3D40E3AC2BBFF2FE0066AAC8 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D40E3AB2BBFF2FE0066AAC8 /* SplashScreen.swift */; };
+		3D40E3AE2BBFF33F0066AAC8 /* AppOpedAddManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D40E3AD2BBFF33F0066AAC8 /* AppOpedAddManager.swift */; };
+		3D40E3B02BBFFFF50066AAC8 /* ThemeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D9B437E2BAAEEC300D83231 /* ThemeViewController.swift */; };
+		3D4E98782C1ACA6B00C20E63 /* IBDesignables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E98772C1ACA6B00C20E63 /* IBDesignables.swift */; };
+		3D4E987A2C1AFD5600C20E63 /* Toast.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D4E98792C1AFD5600C20E63 /* Toast.swift */; };
+		3D6573AB2C294E0D00EDB982 /* TranslateScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6573AA2C294E0D00EDB982 /* TranslateScreen.swift */; };
+		3D6573AE2C2962BA00EDB982 /* InstructionScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6573AD2C2962BA00EDB982 /* InstructionScreen.swift */; };
+		3D6573B22C29707A00EDB982 /* InstructionScreenCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D6573B12C29707A00EDB982 /* InstructionScreenCollectionViewCell.swift */; };
+		3D7060332BBD581300A5FCC5 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7060322BBD581300A5FCC5 /* Constant.swift */; };
+		3D7060342BBD581300A5FCC5 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7060322BBD581300A5FCC5 /* Constant.swift */; };
+		3D7269092C1AC040001BFBF7 /* SubscriptionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7269082C1AC040001BFBF7 /* SubscriptionController.swift */; };
+		3D7A34012C18496F00B9AD61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF34782BA96E8E007BD974 /* Assets.xcassets */; };
+		3D7A341D2C18728A00B9AD61 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34022C18728800B9AD61 /* Service.swift */; };
+		3D7A341F2C18728A00B9AD61 /* SwiftEmojiKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34052C18728800B9AD61 /* SwiftEmojiKeyboard.swift */; };
+		3D7A34202C18728A00B9AD61 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34072C18728800B9AD61 /* Constants.swift */; };
+		3D7A34212C18728A00B9AD61 /* HorizontalFloatingHeaderLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34082C18728800B9AD61 /* HorizontalFloatingHeaderLayout.swift */; };
+		3D7A34222C18728A00B9AD61 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34092C18728800B9AD61 /* UIColor.swift */; };
+		3D7A34232C18728A00B9AD61 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A340A2C18728800B9AD61 /* UIView.swift */; };
+		3D7A34242C18728A00B9AD61 /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A340C2C18728900B9AD61 /* Protocols.swift */; };
+		3D7A34252C18728A00B9AD61 /* compact.json in Resources */ = {isa = PBXBuildFile; fileRef = 3D7A340E2C18728900B9AD61 /* compact.json */; };
+		3D7A34262C18728A00B9AD61 /* EmojiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34102C18728900B9AD61 /* EmojiModel.swift */; };
+		3D7A34272C18728A00B9AD61 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34122C18728A00B9AD61 /* CategoryCell.swift */; };
+		3D7A34282C18728A00B9AD61 /* CategoryDelete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34132C18728A00B9AD61 /* CategoryDelete.swift */; };
+		3D7A34292C18728A00B9AD61 /* KeyboardCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34142C18728A00B9AD61 /* KeyboardCategories.swift */; };
+		3D7A342A2C18728A00B9AD61 /* KeyboardFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34162C18728A00B9AD61 /* KeyboardFooter.swift */; };
+		3D7A342B2C18728A00B9AD61 /* KeyboardHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34172C18728A00B9AD61 /* KeyboardHeader.swift */; };
+		3D7A342C2C18728A00B9AD61 /* KeyboardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A34192C18728A00B9AD61 /* KeyboardCell.swift */; };
+		3D7A342D2C18728A00B9AD61 /* KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D7A341A2C18728A00B9AD61 /* KeyboardView.swift */; };
+		3D8271472C2ADDA10080EBA1 /* ApiHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8271462C2ADDA10080EBA1 /* ApiHelper.swift */; };
+		3D9A191D2C16C59900A6D928 /* CustomKeyboardViews.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DB524102C12C312006D5E1D /* CustomKeyboardViews.xib */; };
+		3D9A19322C16D6A400A6D928 /* KeyboardViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF34892BA96F02007BD974 /* KeyboardViewController.swift */; };
+		3D9B43822BAAEF8C00D83231 /* ThemeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D9B43812BAAEF8C00D83231 /* ThemeTableViewCell.swift */; };
+		3D9B43832BAAEF8C00D83231 /* ThemeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D9B43812BAAEF8C00D83231 /* ThemeTableViewCell.swift */; };
+		3DB524112C12C312006D5E1D /* CustomKeyboardViews.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DB524102C12C312006D5E1D /* CustomKeyboardViews.xib */; };
+		3DB524162C12C4CD006D5E1D /* CustomKeyboardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF34932BA96F36007BD974 /* CustomKeyboardView.xib */; };
+		3DB524A42C12D71D006D5E1D /* SwiftEmojiKeyboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B1A2C11982D004C3290 /* SwiftEmojiKeyboard.swift */; };
+		3DD77B362C11982D004C3290 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B1C2C11982D004C3290 /* Constants.swift */; };
+		3DD77B372C11982D004C3290 /* HorizontalFloatingHeaderLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B1D2C11982D004C3290 /* HorizontalFloatingHeaderLayout.swift */; };
+		3DD77B382C11982D004C3290 /* UIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B1E2C11982D004C3290 /* UIColor.swift */; };
+		3DD77B392C11982D004C3290 /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B1F2C11982D004C3290 /* UIView.swift */; };
+		3DD77B3A2C11982E004C3290 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B212C11982D004C3290 /* Service.swift */; };
+		3DD77B3B2C11982E004C3290 /* compact.json in Resources */ = {isa = PBXBuildFile; fileRef = 3DD77B232C11982D004C3290 /* compact.json */; };
+		3DD77B3C2C11982E004C3290 /* EmojiModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B252C11982D004C3290 /* EmojiModel.swift */; };
+		3DD77B3D2C11982E004C3290 /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B272C11982D004C3290 /* Protocols.swift */; };
+		3DD77B3E2C11982E004C3290 /* CategoryCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B292C11982D004C3290 /* CategoryCell.swift */; };
+		3DD77B3F2C11982E004C3290 /* CategoryDelete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B2A2C11982D004C3290 /* CategoryDelete.swift */; };
+		3DD77B402C11982E004C3290 /* KeyboardCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B2B2C11982D004C3290 /* KeyboardCategories.swift */; };
+		3DD77B412C11982E004C3290 /* KeyboardFooter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B2D2C11982D004C3290 /* KeyboardFooter.swift */; };
+		3DD77B422C11982E004C3290 /* KeyboardHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B2E2C11982D004C3290 /* KeyboardHeader.swift */; };
+		3DD77B432C11982E004C3290 /* KeyboardCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B302C11982D004C3290 /* KeyboardCell.swift */; };
+		3DD77B442C11982E004C3290 /* KeyboardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DD77B312C11982D004C3290 /* KeyboardView.swift */; };
+		3DEF34702BA96E8B007BD974 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF346F2BA96E8B007BD974 /* AppDelegate.swift */; };
+		3DEF34722BA96E8B007BD974 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF34712BA96E8B007BD974 /* SceneDelegate.swift */; };
+		3DEF34742BA96E8B007BD974 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF34732BA96E8B007BD974 /* ViewController.swift */; };
+		3DEF347C2BA96E8E007BD974 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF347B2BA96E8E007BD974 /* Base */; };
+		3DEF348E2BA96F02007BD974 /* Arabic Keyboard Ex..appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 3DEF34872BA96F02007BD974 /* Arabic Keyboard Ex..appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		3DEF34952BA96F36007BD974 /* CustomKeyboardView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF34932BA96F36007BD974 /* CustomKeyboardView.xib */; };
+		3DEF34972BA96F97007BD974 /* CustomKeyboardFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DEF34962BA96F97007BD974 /* CustomKeyboardFile.swift */; };
+		3DF279832BBE8077000EEC84 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3DEF34752BA96E8B007BD974 /* Main.storyboard */; };
+		3DF7C6F22BBC0B3D00BA017C /* Keyboardsound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DF7C6F12BBC0B3C00BA017C /* Keyboardsound.wav */; };
+		3DF7C6F32BBC0B3D00BA017C /* Keyboardsound.wav in Resources */ = {isa = PBXBuildFile; fileRef = 3DF7C6F12BBC0B3C00BA017C /* Keyboardsound.wav */; };
+		8CBA4F232C52434D00CB2A90 /* StoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CBA4F222C52434D00CB2A90 /* StoreKit.framework */; };
+		8CBA4F252C526C6400CB2A90 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8CBA4F242C526C6400CB2A90 /* GoogleService-Info.plist */; };
+		F2EFF8B124F92903F35D8344 /* Pods_Arabic_Keyboard_Ios.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D768AE7C4B2A8DAAAB68F0DF /* Pods_Arabic_Keyboard_Ios.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3DEF348C2BA96F02007BD974 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3DEF34642BA96E8B007BD974 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3DEF34862BA96F02007BD974;
+			remoteInfo = "Arabic Keyboard Ex.";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		3DEF34922BA96F02007BD974 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 12;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				3DEF348E2BA96F02007BD974 /* Arabic Keyboard Ex..appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		02772F76DBCC4489665CA4B2 /* Pods-Arabic Keyboard Ios.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Arabic Keyboard Ios.release.xcconfig"; path = "Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios.release.xcconfig"; sourceTree = "<group>"; };
+		3D00CF902BB2C75B000C5977 /* SideMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuViewController.swift; sourceTree = "<group>"; };
+		3D00CF922BB2CCB3000C5977 /* SideMenuTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuTableViewCell.swift; sourceTree = "<group>"; };
+		3D00CF942BB2DD92000C5977 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		3D070DA32BB59A52000CDB74 /* GlobalFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalFile.swift; sourceTree = "<group>"; };
+		3D21D7B42BCE774700713055 /* Pods_Arabic_Keyboard_Ex_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = Pods_Arabic_Keyboard_Ex_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3D40E3AB2BBFF2FE0066AAC8 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = SplashScreen.swift; path = "Arabic Keyboard Ios/SplashScreen.swift"; sourceTree = SOURCE_ROOT; };
+		3D40E3AD2BBFF33F0066AAC8 /* AppOpedAddManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppOpedAddManager.swift; path = "Arabic Keyboard Ios/AppOpedAddManager.swift"; sourceTree = SOURCE_ROOT; };
+		3D4E98772C1ACA6B00C20E63 /* IBDesignables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBDesignables.swift; sourceTree = "<group>"; };
+		3D4E98792C1AFD5600C20E63 /* Toast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toast.swift; sourceTree = "<group>"; };
+		3D6573AA2C294E0D00EDB982 /* TranslateScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TranslateScreen.swift; sourceTree = "<group>"; };
+		3D6573AD2C2962BA00EDB982 /* InstructionScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstructionScreen.swift; sourceTree = "<group>"; };
+		3D6573B12C29707A00EDB982 /* InstructionScreenCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InstructionScreenCollectionViewCell.swift; path = "Arabic Keyboard Ios/InstructionScreenCollectionViewCell.swift"; sourceTree = SOURCE_ROOT; };
+		3D7060322BBD581300A5FCC5 /* Constant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
+		3D7269082C1AC040001BFBF7 /* SubscriptionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubscriptionController.swift; sourceTree = "<group>"; };
+		3D7A34022C18728800B9AD61 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		3D7A34052C18728800B9AD61 /* SwiftEmojiKeyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftEmojiKeyboard.swift; sourceTree = "<group>"; };
+		3D7A34072C18728800B9AD61 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3D7A34082C18728800B9AD61 /* HorizontalFloatingHeaderLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalFloatingHeaderLayout.swift; sourceTree = "<group>"; };
+		3D7A34092C18728800B9AD61 /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		3D7A340A2C18728800B9AD61 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		3D7A340C2C18728900B9AD61 /* Protocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		3D7A340E2C18728900B9AD61 /* compact.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = compact.json; sourceTree = "<group>"; };
+		3D7A34102C18728900B9AD61 /* EmojiModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiModel.swift; sourceTree = "<group>"; };
+		3D7A34122C18728A00B9AD61 /* CategoryCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		3D7A34132C18728A00B9AD61 /* CategoryDelete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryDelete.swift; sourceTree = "<group>"; };
+		3D7A34142C18728A00B9AD61 /* KeyboardCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardCategories.swift; sourceTree = "<group>"; };
+		3D7A34162C18728A00B9AD61 /* KeyboardFooter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardFooter.swift; sourceTree = "<group>"; };
+		3D7A34172C18728A00B9AD61 /* KeyboardHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardHeader.swift; sourceTree = "<group>"; };
+		3D7A34192C18728A00B9AD61 /* KeyboardCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardCell.swift; sourceTree = "<group>"; };
+		3D7A341A2C18728A00B9AD61 /* KeyboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardView.swift; sourceTree = "<group>"; };
+		3D8271462C2ADDA10080EBA1 /* ApiHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiHelper.swift; sourceTree = "<group>"; };
+		3D9B437E2BAAEEC300D83231 /* ThemeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeViewController.swift; sourceTree = "<group>"; };
+		3D9B43812BAAEF8C00D83231 /* ThemeTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThemeTableViewCell.swift; sourceTree = "<group>"; };
+		3D9C46902BB69051001E2357 /* Montserrat-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBold.ttf"; sourceTree = "<group>"; };
+		3D9C46912BB69051001E2357 /* Montserrat-ExtraLight.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraLight.ttf"; sourceTree = "<group>"; };
+		3D9C46922BB69051001E2357 /* Montserrat-Italic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Italic.ttf"; sourceTree = "<group>"; };
+		3D9C46932BB69051001E2357 /* Montserrat-LightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-LightItalic.ttf"; sourceTree = "<group>"; };
+		3D9C46942BB69051001E2357 /* Montserrat-BlackItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BlackItalic.ttf"; sourceTree = "<group>"; };
+		3D9C46952BB69051001E2357 /* Montserrat-SemiBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBold.ttf"; sourceTree = "<group>"; };
+		3D9C46962BB69052001E2357 /* Montserrat-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ThinItalic.ttf"; sourceTree = "<group>"; };
+		3D9C46972BB69052001E2357 /* Montserrat-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Bold.ttf"; sourceTree = "<group>"; };
+		3D9C46982BB69052001E2357 /* Montserrat-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Regular.ttf"; sourceTree = "<group>"; };
+		3D9C46992BB69052001E2357 /* Montserrat-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Thin.ttf"; sourceTree = "<group>"; };
+		3D9C469A2BB69052001E2357 /* Montserrat-Medium.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Medium.ttf"; sourceTree = "<group>"; };
+		3D9C469B2BB69052001E2357 /* Montserrat-ExtraLightItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraLightItalic.ttf"; sourceTree = "<group>"; };
+		3D9C469C2BB69052001E2357 /* Montserrat-MediumItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-MediumItalic.ttf"; sourceTree = "<group>"; };
+		3D9C469D2BB69052001E2357 /* Montserrat-BoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-BoldItalic.ttf"; sourceTree = "<group>"; };
+		3D9C469E2BB69052001E2357 /* Montserrat-Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Black.ttf"; sourceTree = "<group>"; };
+		3D9C469F2BB69052001E2357 /* Montserrat-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
+		3D9C46A02BB69052001E2357 /* Montserrat-ExtraBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-ExtraBoldItalic.ttf"; sourceTree = "<group>"; };
+		3D9C46A12BB69053001E2357 /* Montserrat-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Montserrat-Light.ttf"; sourceTree = "<group>"; };
+		3DB524102C12C312006D5E1D /* CustomKeyboardViews.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = CustomKeyboardViews.xib; sourceTree = "<group>"; };
+		3DD77B1A2C11982D004C3290 /* SwiftEmojiKeyboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftEmojiKeyboard.swift; sourceTree = "<group>"; };
+		3DD77B1C2C11982D004C3290 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		3DD77B1D2C11982D004C3290 /* HorizontalFloatingHeaderLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HorizontalFloatingHeaderLayout.swift; sourceTree = "<group>"; };
+		3DD77B1E2C11982D004C3290 /* UIColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColor.swift; sourceTree = "<group>"; };
+		3DD77B1F2C11982D004C3290 /* UIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
+		3DD77B212C11982D004C3290 /* Service.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
+		3DD77B232C11982D004C3290 /* compact.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = compact.json; sourceTree = "<group>"; };
+		3DD77B252C11982D004C3290 /* EmojiModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EmojiModel.swift; sourceTree = "<group>"; };
+		3DD77B272C11982D004C3290 /* Protocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		3DD77B292C11982D004C3290 /* CategoryCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryCell.swift; sourceTree = "<group>"; };
+		3DD77B2A2C11982D004C3290 /* CategoryDelete.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryDelete.swift; sourceTree = "<group>"; };
+		3DD77B2B2C11982D004C3290 /* KeyboardCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardCategories.swift; sourceTree = "<group>"; };
+		3DD77B2D2C11982D004C3290 /* KeyboardFooter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardFooter.swift; sourceTree = "<group>"; };
+		3DD77B2E2C11982D004C3290 /* KeyboardHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardHeader.swift; sourceTree = "<group>"; };
+		3DD77B302C11982D004C3290 /* KeyboardCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardCell.swift; sourceTree = "<group>"; };
+		3DD77B312C11982D004C3290 /* KeyboardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyboardView.swift; sourceTree = "<group>"; };
+		3DEF346C2BA96E8B007BD974 /* Arabic Keyboard Ios.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Arabic Keyboard Ios.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DEF346F2BA96E8B007BD974 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3DEF34712BA96E8B007BD974 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		3DEF34732BA96E8B007BD974 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3DEF34762BA96E8B007BD974 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3DEF34782BA96E8E007BD974 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3DEF347B2BA96E8E007BD974 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3DEF347D2BA96E8E007BD974 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DEF34872BA96F02007BD974 /* Arabic Keyboard Ex..appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "Arabic Keyboard Ex..appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3DEF34892BA96F02007BD974 /* KeyboardViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardViewController.swift; sourceTree = "<group>"; };
+		3DEF348B2BA96F02007BD974 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3DEF34932BA96F36007BD974 /* CustomKeyboardView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = CustomKeyboardView.xib; path = "Arabic Keyboard Ios/CustomKeyboard File/CustomKeyboardView.xib"; sourceTree = SOURCE_ROOT; };
+		3DEF34962BA96F97007BD974 /* CustomKeyboardFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = CustomKeyboardFile.swift; path = "Arabic Keyboard Ios/CustomKeyboard File/CustomKeyboardFile.swift"; sourceTree = SOURCE_ROOT; };
+		3DF7C6F12BBC0B3C00BA017C /* Keyboardsound.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Keyboardsound.wav; sourceTree = "<group>"; };
+		6BE28D0DA08FDEBE156EB0A5 /* Pods-Arabic Keyboard Ios.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Arabic Keyboard Ios.debug.xcconfig"; path = "Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios.debug.xcconfig"; sourceTree = "<group>"; };
+		8CBA4F222C52434D00CB2A90 /* StoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = StoreKit.framework; path = System/Library/Frameworks/StoreKit.framework; sourceTree = SDKROOT; };
+		8CBA4F242C526C6400CB2A90 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		BC6D81502C1866580085BEC2 /* Arabic Keyboard Ios.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Arabic Keyboard Ios.entitlements"; sourceTree = "<group>"; };
+		BC6D81512C18665F0085BEC2 /* Arabic Keyboard Ex..entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Arabic Keyboard Ex..entitlements"; sourceTree = "<group>"; };
+		C7B3A0116EDF6AAAF34E003E /* Pods-Arabic Keyboard Ex..release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Arabic Keyboard Ex..release.xcconfig"; path = "Target Support Files/Pods-Arabic Keyboard Ex./Pods-Arabic Keyboard Ex..release.xcconfig"; sourceTree = "<group>"; };
+		D7223CFEEA71F02E626C0CCC /* Pods_Arabic_Keyboard_Ex_.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Arabic_Keyboard_Ex_.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D768AE7C4B2A8DAAAB68F0DF /* Pods_Arabic_Keyboard_Ios.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Arabic_Keyboard_Ios.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD86B4A44059EABFB558B71A /* Pods-Arabic Keyboard Ex..debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Arabic Keyboard Ex..debug.xcconfig"; path = "Target Support Files/Pods-Arabic Keyboard Ex./Pods-Arabic Keyboard Ex..debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3DEF34692BA96E8B007BD974 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F2EFF8B124F92903F35D8344 /* Pods_Arabic_Keyboard_Ios.framework in Frameworks */,
+				8CBA4F232C52434D00CB2A90 /* StoreKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DEF34842BA96F02007BD974 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D21D7B52BCE774700713055 /* Pods_Arabic_Keyboard_Ex_.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		281930E3881BA2670F2663C6 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FD86B4A44059EABFB558B71A /* Pods-Arabic Keyboard Ex..debug.xcconfig */,
+				C7B3A0116EDF6AAAF34E003E /* Pods-Arabic Keyboard Ex..release.xcconfig */,
+				6BE28D0DA08FDEBE156EB0A5 /* Pods-Arabic Keyboard Ios.debug.xcconfig */,
+				02772F76DBCC4489665CA4B2 /* Pods-Arabic Keyboard Ios.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		3D00CF962BB2DDBB000C5977 /* SideMenu VC */ = {
+			isa = PBXGroup;
+			children = (
+				3D00CF972BB2DDDF000C5977 /* table View Cell */,
+				3D00CF902BB2C75B000C5977 /* SideMenuViewController.swift */,
+			);
+			path = "SideMenu VC";
+			sourceTree = "<group>";
+		};
+		3D00CF972BB2DDDF000C5977 /* table View Cell */ = {
+			isa = PBXGroup;
+			children = (
+				3D00CF922BB2CCB3000C5977 /* SideMenuTableViewCell.swift */,
+			);
+			path = "table View Cell";
+			sourceTree = "<group>";
+		};
+		3D00CF982BB2DE12000C5977 /* ThemeScreen */ = {
+			isa = PBXGroup;
+			children = (
+				3D9B437E2BAAEEC300D83231 /* ThemeViewController.swift */,
+				3D00CF992BB2DE21000C5977 /* TableView Cell */,
+			);
+			path = ThemeScreen;
+			sourceTree = "<group>";
+		};
+		3D00CF992BB2DE21000C5977 /* TableView Cell */ = {
+			isa = PBXGroup;
+			children = (
+				3D9B43812BAAEF8C00D83231 /* ThemeTableViewCell.swift */,
+			);
+			path = "TableView Cell";
+			sourceTree = "<group>";
+		};
+		3D00CF9A2BB2DE5D000C5977 /* SettingScreen */ = {
+			isa = PBXGroup;
+			children = (
+				3D00CF942BB2DD92000C5977 /* SettingsViewController.swift */,
+			);
+			path = SettingScreen;
+			sourceTree = "<group>";
+		};
+		3D070DD62BBFEC7D002DE93A /* AppOpenAddViewController */ = {
+			isa = PBXGroup;
+			children = (
+				3D40E3AD2BBFF33F0066AAC8 /* AppOpedAddManager.swift */,
+				3D40E3AB2BBFF2FE0066AAC8 /* SplashScreen.swift */,
+			);
+			path = AppOpenAddViewController;
+			sourceTree = "<group>";
+		};
+		3D429B0F2C1334A90063395B /* Config */ = {
+			isa = PBXGroup;
+			children = (
+				3DEF346F2BA96E8B007BD974 /* AppDelegate.swift */,
+				3DEF34712BA96E8B007BD974 /* SceneDelegate.swift */,
+			);
+			path = Config;
+			sourceTree = "<group>";
+		};
+		3D429B102C1334CE0063395B /* Home Page VC */ = {
+			isa = PBXGroup;
+			children = (
+				3DEF34732BA96E8B007BD974 /* ViewController.swift */,
+			);
+			path = "Home Page VC";
+			sourceTree = "<group>";
+		};
+		3D429B112C1337AE0063395B /* Emoji File */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B1B2C11982D004C3290 /* Controller */,
+				3DD77B242C11982D004C3290 /* Files */,
+				3DD77B262C11982D004C3290 /* Model */,
+				3DD77B282C11982D004C3290 /* Protocols */,
+				3DD77B222C11982D004C3290 /* Service */,
+				3DD77B202C11982D004C3290 /* Utils */,
+				3DD77B332C11982D004C3290 /* View */,
+			);
+			path = "Emoji File";
+			sourceTree = "<group>";
+		};
+		3D6573A92C294DE600EDB982 /* Translate VC */ = {
+			isa = PBXGroup;
+			children = (
+				3D6573AA2C294E0D00EDB982 /* TranslateScreen.swift */,
+			);
+			path = "Translate VC";
+			sourceTree = "<group>";
+		};
+		3D6573AC2C29627B00EDB982 /* Instruction VC */ = {
+			isa = PBXGroup;
+			children = (
+				3D6573B02C29705500EDB982 /* Collection View */,
+				3D6573AD2C2962BA00EDB982 /* InstructionScreen.swift */,
+			);
+			path = "Instruction VC";
+			sourceTree = "<group>";
+		};
+		3D6573B02C29705500EDB982 /* Collection View */ = {
+			isa = PBXGroup;
+			children = (
+				3D6573B12C29707A00EDB982 /* InstructionScreenCollectionViewCell.swift */,
+			);
+			name = "Collection View";
+			sourceTree = "<group>";
+		};
+		3D7060312BBD57FD00A5FCC5 /* Global */ = {
+			isa = PBXGroup;
+			children = (
+				3D8271462C2ADDA10080EBA1 /* ApiHelper.swift */,
+				3DF7C6F12BBC0B3C00BA017C /* Keyboardsound.wav */,
+				3D070DA32BB59A52000CDB74 /* GlobalFile.swift */,
+				3D7060322BBD581300A5FCC5 /* Constant.swift */,
+				3D4E98772C1ACA6B00C20E63 /* IBDesignables.swift */,
+				3D4E98792C1AFD5600C20E63 /* Toast.swift */,
+			);
+			path = Global;
+			sourceTree = "<group>";
+		};
+		3D7269072C1ABFF5001BFBF7 /* Subscription Screen */ = {
+			isa = PBXGroup;
+			children = (
+				3D7269082C1AC040001BFBF7 /* SubscriptionController.swift */,
+			);
+			path = "Subscription Screen";
+			sourceTree = "<group>";
+		};
+		3D7A34032C18728800B9AD61 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34022C18728800B9AD61 /* Service.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		3D7A34062C18728800B9AD61 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34052C18728800B9AD61 /* SwiftEmojiKeyboard.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		3D7A340B2C18728800B9AD61 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34072C18728800B9AD61 /* Constants.swift */,
+				3D7A34082C18728800B9AD61 /* HorizontalFloatingHeaderLayout.swift */,
+				3D7A34092C18728800B9AD61 /* UIColor.swift */,
+				3D7A340A2C18728800B9AD61 /* UIView.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3D7A340D2C18728900B9AD61 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A340C2C18728900B9AD61 /* Protocols.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		3D7A340F2C18728900B9AD61 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A340E2C18728900B9AD61 /* compact.json */,
+			);
+			path = Files;
+			sourceTree = "<group>";
+		};
+		3D7A34112C18728900B9AD61 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34102C18728900B9AD61 /* EmojiModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3D7A34152C18728A00B9AD61 /* KeyboardCategories */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34122C18728A00B9AD61 /* CategoryCell.swift */,
+				3D7A34132C18728A00B9AD61 /* CategoryDelete.swift */,
+				3D7A34142C18728A00B9AD61 /* KeyboardCategories.swift */,
+			);
+			path = KeyboardCategories;
+			sourceTree = "<group>";
+		};
+		3D7A34182C18728A00B9AD61 /* KeyboardSupplementaryViews */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34162C18728A00B9AD61 /* KeyboardFooter.swift */,
+				3D7A34172C18728A00B9AD61 /* KeyboardHeader.swift */,
+			);
+			path = KeyboardSupplementaryViews;
+			sourceTree = "<group>";
+		};
+		3D7A341B2C18728A00B9AD61 /* KeyboardView */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34192C18728A00B9AD61 /* KeyboardCell.swift */,
+				3D7A341A2C18728A00B9AD61 /* KeyboardView.swift */,
+			);
+			path = KeyboardView;
+			sourceTree = "<group>";
+		};
+		3D7A341C2C18728A00B9AD61 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34152C18728A00B9AD61 /* KeyboardCategories */,
+				3D7A34182C18728A00B9AD61 /* KeyboardSupplementaryViews */,
+				3D7A341B2C18728A00B9AD61 /* KeyboardView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3D9C468F2BB6902B001E2357 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				3D9C469E2BB69052001E2357 /* Montserrat-Black.ttf */,
+				3D9C46942BB69051001E2357 /* Montserrat-BlackItalic.ttf */,
+				3D9C46972BB69052001E2357 /* Montserrat-Bold.ttf */,
+				3D9C469D2BB69052001E2357 /* Montserrat-BoldItalic.ttf */,
+				3D9C46902BB69051001E2357 /* Montserrat-ExtraBold.ttf */,
+				3D9C46A02BB69052001E2357 /* Montserrat-ExtraBoldItalic.ttf */,
+				3D9C46912BB69051001E2357 /* Montserrat-ExtraLight.ttf */,
+				3D9C469B2BB69052001E2357 /* Montserrat-ExtraLightItalic.ttf */,
+				3D9C46922BB69051001E2357 /* Montserrat-Italic.ttf */,
+				3D9C46A12BB69053001E2357 /* Montserrat-Light.ttf */,
+				3D9C46932BB69051001E2357 /* Montserrat-LightItalic.ttf */,
+				3D9C469A2BB69052001E2357 /* Montserrat-Medium.ttf */,
+				3D9C469C2BB69052001E2357 /* Montserrat-MediumItalic.ttf */,
+				3D9C46982BB69052001E2357 /* Montserrat-Regular.ttf */,
+				3D9C46952BB69051001E2357 /* Montserrat-SemiBold.ttf */,
+				3D9C469F2BB69052001E2357 /* Montserrat-SemiBoldItalic.ttf */,
+				3D9C46992BB69052001E2357 /* Montserrat-Thin.ttf */,
+				3D9C46962BB69052001E2357 /* Montserrat-ThinItalic.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		3DCB49F72C19811600583ED5 /* Emojis File Ex */ = {
+			isa = PBXGroup;
+			children = (
+				3D7A34062C18728800B9AD61 /* Controller */,
+				3D7A340F2C18728900B9AD61 /* Files */,
+				3D7A34112C18728900B9AD61 /* Model */,
+				3D7A340D2C18728900B9AD61 /* Protocols */,
+				3D7A34032C18728800B9AD61 /* Service */,
+				3D7A340B2C18728800B9AD61 /* Utils */,
+				3D7A341C2C18728A00B9AD61 /* View */,
+			);
+			path = "Emojis File Ex";
+			sourceTree = "<group>";
+		};
+		3DD77B1B2C11982D004C3290 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B1A2C11982D004C3290 /* SwiftEmojiKeyboard.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		3DD77B202C11982D004C3290 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B1C2C11982D004C3290 /* Constants.swift */,
+				3DD77B1D2C11982D004C3290 /* HorizontalFloatingHeaderLayout.swift */,
+				3DD77B1E2C11982D004C3290 /* UIColor.swift */,
+				3DD77B1F2C11982D004C3290 /* UIView.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		3DD77B222C11982D004C3290 /* Service */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B212C11982D004C3290 /* Service.swift */,
+			);
+			path = Service;
+			sourceTree = "<group>";
+		};
+		3DD77B242C11982D004C3290 /* Files */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B232C11982D004C3290 /* compact.json */,
+			);
+			path = Files;
+			sourceTree = "<group>";
+		};
+		3DD77B262C11982D004C3290 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B252C11982D004C3290 /* EmojiModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3DD77B282C11982D004C3290 /* Protocols */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B272C11982D004C3290 /* Protocols.swift */,
+			);
+			path = Protocols;
+			sourceTree = "<group>";
+		};
+		3DD77B2C2C11982D004C3290 /* KeyboardCategories */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B292C11982D004C3290 /* CategoryCell.swift */,
+				3DD77B2A2C11982D004C3290 /* CategoryDelete.swift */,
+				3DD77B2B2C11982D004C3290 /* KeyboardCategories.swift */,
+			);
+			path = KeyboardCategories;
+			sourceTree = "<group>";
+		};
+		3DD77B2F2C11982D004C3290 /* KeyboardSupplementaryViews */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B2D2C11982D004C3290 /* KeyboardFooter.swift */,
+				3DD77B2E2C11982D004C3290 /* KeyboardHeader.swift */,
+			);
+			path = KeyboardSupplementaryViews;
+			sourceTree = "<group>";
+		};
+		3DD77B322C11982D004C3290 /* KeyboardView */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B302C11982D004C3290 /* KeyboardCell.swift */,
+				3DD77B312C11982D004C3290 /* KeyboardView.swift */,
+			);
+			path = KeyboardView;
+			sourceTree = "<group>";
+		};
+		3DD77B332C11982D004C3290 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				3DD77B2C2C11982D004C3290 /* KeyboardCategories */,
+				3DD77B2F2C11982D004C3290 /* KeyboardSupplementaryViews */,
+				3DD77B322C11982D004C3290 /* KeyboardView */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		3DEF34632BA96E8B007BD974 = {
+			isa = PBXGroup;
+			children = (
+				3DEF346E2BA96E8B007BD974 /* Arabic Keyboard Ios */,
+				3DEF34882BA96F02007BD974 /* Arabic Keyboard Ex. */,
+				3DEF346D2BA96E8B007BD974 /* Products */,
+				281930E3881BA2670F2663C6 /* Pods */,
+				AA182ADA61B883B6CB69BAA5 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		3DEF346D2BA96E8B007BD974 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3DEF346C2BA96E8B007BD974 /* Arabic Keyboard Ios.app */,
+				3DEF34872BA96F02007BD974 /* Arabic Keyboard Ex..appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3DEF346E2BA96E8B007BD974 /* Arabic Keyboard Ios */ = {
+			isa = PBXGroup;
+			children = (
+				8CBA4F242C526C6400CB2A90 /* GoogleService-Info.plist */,
+				BC6D81502C1866580085BEC2 /* Arabic Keyboard Ios.entitlements */,
+				3D429B112C1337AE0063395B /* Emoji File */,
+				3D429B0F2C1334A90063395B /* Config */,
+				3D7060312BBD57FD00A5FCC5 /* Global */,
+				3DFC00672BCFE4B700CD3AAD /* CustomKeyboard File */,
+				3D6573AC2C29627B00EDB982 /* Instruction VC */,
+				3D070DD62BBFEC7D002DE93A /* AppOpenAddViewController */,
+				3D429B102C1334CE0063395B /* Home Page VC */,
+				3D6573A92C294DE600EDB982 /* Translate VC */,
+				3DEF34752BA96E8B007BD974 /* Main.storyboard */,
+				3D7269072C1ABFF5001BFBF7 /* Subscription Screen */,
+				3D00CF962BB2DDBB000C5977 /* SideMenu VC */,
+				3D00CF9A2BB2DE5D000C5977 /* SettingScreen */,
+				3D00CF982BB2DE12000C5977 /* ThemeScreen */,
+				3D9C468F2BB6902B001E2357 /* Fonts */,
+				3DEF34782BA96E8E007BD974 /* Assets.xcassets */,
+				3DEF347A2BA96E8E007BD974 /* LaunchScreen.storyboard */,
+				3DEF347D2BA96E8E007BD974 /* Info.plist */,
+			);
+			path = "Arabic Keyboard Ios";
+			sourceTree = "<group>";
+		};
+		3DEF34882BA96F02007BD974 /* Arabic Keyboard Ex. */ = {
+			isa = PBXGroup;
+			children = (
+				3DCB49F72C19811600583ED5 /* Emojis File Ex */,
+				BC6D81512C18665F0085BEC2 /* Arabic Keyboard Ex..entitlements */,
+				3DB524102C12C312006D5E1D /* CustomKeyboardViews.xib */,
+				3DEF34892BA96F02007BD974 /* KeyboardViewController.swift */,
+				3DEF348B2BA96F02007BD974 /* Info.plist */,
+			);
+			path = "Arabic Keyboard Ex.";
+			sourceTree = "<group>";
+		};
+		3DFC00672BCFE4B700CD3AAD /* CustomKeyboard File */ = {
+			isa = PBXGroup;
+			children = (
+				3DEF34932BA96F36007BD974 /* CustomKeyboardView.xib */,
+				3DEF34962BA96F97007BD974 /* CustomKeyboardFile.swift */,
+			);
+			path = "CustomKeyboard File";
+			sourceTree = "<group>";
+		};
+		AA182ADA61B883B6CB69BAA5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8CBA4F222C52434D00CB2A90 /* StoreKit.framework */,
+				3D21D7B42BCE774700713055 /* Pods_Arabic_Keyboard_Ex_.framework */,
+				D7223CFEEA71F02E626C0CCC /* Pods_Arabic_Keyboard_Ex_.framework */,
+				D768AE7C4B2A8DAAAB68F0DF /* Pods_Arabic_Keyboard_Ios.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3DEF346B2BA96E8B007BD974 /* Arabic Keyboard Ios */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DEF34802BA96E8E007BD974 /* Build configuration list for PBXNativeTarget "Arabic Keyboard Ios" */;
+			buildPhases = (
+				F438BF5EDD7327DBA39F100D /* [CP] Check Pods Manifest.lock */,
+				3DEF34682BA96E8B007BD974 /* Sources */,
+				3DEF34692BA96E8B007BD974 /* Frameworks */,
+				3DEF346A2BA96E8B007BD974 /* Resources */,
+				3DEF34922BA96F02007BD974 /* Embed Foundation Extensions */,
+				38A3715EB25B5AD5417342EF /* [CP] Embed Pods Frameworks */,
+				3D82714D2C2AF29F0080EBA1 /* ShellScript */,
+				15F8C921B7EAF86DD50436C5 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3DEF348D2BA96F02007BD974 /* PBXTargetDependency */,
+			);
+			name = "Arabic Keyboard Ios";
+			productName = "Arabic Keyboard Ios";
+			productReference = 3DEF346C2BA96E8B007BD974 /* Arabic Keyboard Ios.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3DEF34862BA96F02007BD974 /* Arabic Keyboard Ex. */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3DEF348F2BA96F02007BD974 /* Build configuration list for PBXNativeTarget "Arabic Keyboard Ex." */;
+			buildPhases = (
+				A5A8DFA96CF92FFE177317A1 /* [CP] Check Pods Manifest.lock */,
+				3DEF34832BA96F02007BD974 /* Sources */,
+				3DEF34842BA96F02007BD974 /* Frameworks */,
+				3DEF34852BA96F02007BD974 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Arabic Keyboard Ex.";
+			productName = "Arabic Keyboard Ex.";
+			productReference = 3DEF34872BA96F02007BD974 /* Arabic Keyboard Ex..appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3DEF34642BA96E8B007BD974 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1530;
+				LastUpgradeCheck = 1530;
+				TargetAttributes = {
+					3DEF346B2BA96E8B007BD974 = {
+						CreatedOnToolsVersion = 15.3;
+					};
+					3DEF34862BA96F02007BD974 = {
+						CreatedOnToolsVersion = 15.3;
+					};
+				};
+			};
+			buildConfigurationList = 3DEF34672BA96E8B007BD974 /* Build configuration list for PBXProject "Arabic Keyboard Ios" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3DEF34632BA96E8B007BD974;
+			productRefGroup = 3DEF346D2BA96E8B007BD974 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3DEF346B2BA96E8B007BD974 /* Arabic Keyboard Ios */,
+				3DEF34862BA96F02007BD974 /* Arabic Keyboard Ex. */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3DEF346A2BA96E8B007BD974 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D21D7B82BCE838300713055 /* Montserrat-Black.ttf in Resources */,
+				3D21D7B92BCE838300713055 /* Montserrat-BlackItalic.ttf in Resources */,
+				3D9A191D2C16C59900A6D928 /* CustomKeyboardViews.xib in Resources */,
+				3D21D7BA2BCE838300713055 /* Montserrat-Bold.ttf in Resources */,
+				3D21D7BB2BCE838300713055 /* Montserrat-BoldItalic.ttf in Resources */,
+				3D21D7BC2BCE838300713055 /* Montserrat-ExtraBold.ttf in Resources */,
+				3D21D7BD2BCE838300713055 /* Montserrat-ExtraBoldItalic.ttf in Resources */,
+				3D21D7BE2BCE838300713055 /* Montserrat-ExtraLight.ttf in Resources */,
+				3D21D7BF2BCE838300713055 /* Montserrat-ExtraLightItalic.ttf in Resources */,
+				3D21D7C02BCE838300713055 /* Montserrat-Italic.ttf in Resources */,
+				3D21D7C12BCE838300713055 /* Montserrat-Light.ttf in Resources */,
+				3D21D7C22BCE838400713055 /* Montserrat-LightItalic.ttf in Resources */,
+				3D21D7C32BCE838400713055 /* Montserrat-Medium.ttf in Resources */,
+				8CBA4F252C526C6400CB2A90 /* GoogleService-Info.plist in Resources */,
+				3D21D7C42BCE838400713055 /* Montserrat-MediumItalic.ttf in Resources */,
+				3D21D7C52BCE838400713055 /* Montserrat-Regular.ttf in Resources */,
+				3D21D7C62BCE838400713055 /* Montserrat-SemiBold.ttf in Resources */,
+				3D21D7C72BCE838400713055 /* Montserrat-SemiBoldItalic.ttf in Resources */,
+				3D21D7C82BCE838400713055 /* Montserrat-Thin.ttf in Resources */,
+				3D21D7C92BCE838400713055 /* Montserrat-ThinItalic.ttf in Resources */,
+				3D21D7862BCE573500713055 /* Assets.xcassets in Resources */,
+				3DD77B3B2C11982E004C3290 /* compact.json in Resources */,
+				3DF279832BBE8077000EEC84 /* Main.storyboard in Resources */,
+				3DF7C6F22BBC0B3D00BA017C /* Keyboardsound.wav in Resources */,
+				3DB524162C12C4CD006D5E1D /* CustomKeyboardView.xib in Resources */,
+				3DEF347C2BA96E8E007BD974 /* Base in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DEF34852BA96F02007BD974 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D21D7CA2BCE839E00713055 /* Montserrat-Black.ttf in Resources */,
+				3D21D7CB2BCE839E00713055 /* Montserrat-BlackItalic.ttf in Resources */,
+				3D7A34012C18496F00B9AD61 /* Assets.xcassets in Resources */,
+				3D21D7CC2BCE839E00713055 /* Montserrat-Bold.ttf in Resources */,
+				3D21D7CD2BCE839E00713055 /* Montserrat-BoldItalic.ttf in Resources */,
+				3DB524112C12C312006D5E1D /* CustomKeyboardViews.xib in Resources */,
+				3D21D7CE2BCE839E00713055 /* Montserrat-ExtraBold.ttf in Resources */,
+				3D21D7CF2BCE839E00713055 /* Montserrat-ExtraBoldItalic.ttf in Resources */,
+				3D21D7D02BCE839E00713055 /* Montserrat-ExtraLight.ttf in Resources */,
+				3D21D7D12BCE839F00713055 /* Montserrat-ExtraLightItalic.ttf in Resources */,
+				3D21D7D22BCE839F00713055 /* Montserrat-Italic.ttf in Resources */,
+				3D7A34252C18728A00B9AD61 /* compact.json in Resources */,
+				3D21D7D32BCE839F00713055 /* Montserrat-Light.ttf in Resources */,
+				3D21D7D42BCE839F00713055 /* Montserrat-LightItalic.ttf in Resources */,
+				3D21D7D52BCE839F00713055 /* Montserrat-Medium.ttf in Resources */,
+				3D21D7D62BCE839F00713055 /* Montserrat-MediumItalic.ttf in Resources */,
+				3D21D7D72BCE839F00713055 /* Montserrat-Regular.ttf in Resources */,
+				3D21D7D82BCE839F00713055 /* Montserrat-SemiBold.ttf in Resources */,
+				3D21D7D92BCE839F00713055 /* Montserrat-SemiBoldItalic.ttf in Resources */,
+				3D21D7DA2BCE839F00713055 /* Montserrat-Thin.ttf in Resources */,
+				3D21D7DB2BCE839F00713055 /* Montserrat-ThinItalic.ttf in Resources */,
+				3DEF34952BA96F36007BD974 /* CustomKeyboardView.xib in Resources */,
+				3DF7C6F32BBC0B3D00BA017C /* Keyboardsound.wav in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		15F8C921B7EAF86DD50436C5 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		38A3715EB25B5AD5417342EF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 12;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Arabic Keyboard Ios/Pods-Arabic Keyboard Ios-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		3D82714D2C2AF29F0080EBA1 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}",
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Resources/DWARF/${PRODUCT_NAME}",
+				"${DWARF_DSYM_FOLDER_PATH}/${DWARF_DSYM_FILE_NAME}/Contents/Info.plist",
+				"$(TARGET_BUILD_DIR)/$(UNLOCALIZED_RESOURCES_FOLDER_PATH)/GoogleService-Info.plist",
+				"$(TARGET_BUILD_DIR)/$(EXECUTABLE_PATH)",
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/FirebaseCrashlytics/run\"\n";
+		};
+		A5A8DFA96CF92FFE177317A1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Arabic Keyboard Ex.-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F438BF5EDD7327DBA39F100D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Arabic Keyboard Ios-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3DEF34682BA96E8B007BD974 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3DD77B3E2C11982E004C3290 /* CategoryCell.swift in Sources */,
+				3D40E3B02BBFFFF50066AAC8 /* ThemeViewController.swift in Sources */,
+				3DD77B432C11982E004C3290 /* KeyboardCell.swift in Sources */,
+				3D40E3AC2BBFF2FE0066AAC8 /* SplashScreen.swift in Sources */,
+				3DD77B3D2C11982E004C3290 /* Protocols.swift in Sources */,
+				3DD77B372C11982D004C3290 /* HorizontalFloatingHeaderLayout.swift in Sources */,
+				3D7060332BBD581300A5FCC5 /* Constant.swift in Sources */,
+				3DD77B402C11982E004C3290 /* KeyboardCategories.swift in Sources */,
+				3D7269092C1AC040001BFBF7 /* SubscriptionController.swift in Sources */,
+				3D6573B22C29707A00EDB982 /* InstructionScreenCollectionViewCell.swift in Sources */,
+				3DEF34742BA96E8B007BD974 /* ViewController.swift in Sources */,
+				3DEF34702BA96E8B007BD974 /* AppDelegate.swift in Sources */,
+				3D4E987A2C1AFD5600C20E63 /* Toast.swift in Sources */,
+				3D00CF932BB2CCB3000C5977 /* SideMenuTableViewCell.swift in Sources */,
+				3DD77B362C11982D004C3290 /* Constants.swift in Sources */,
+				3D40E3AE2BBFF33F0066AAC8 /* AppOpedAddManager.swift in Sources */,
+				3D9B43822BAAEF8C00D83231 /* ThemeTableViewCell.swift in Sources */,
+				3D00CF912BB2C75B000C5977 /* SideMenuViewController.swift in Sources */,
+				3DEF34722BA96E8B007BD974 /* SceneDelegate.swift in Sources */,
+				3DD77B392C11982D004C3290 /* UIView.swift in Sources */,
+				3DB524A42C12D71D006D5E1D /* SwiftEmojiKeyboard.swift in Sources */,
+				3D6573AE2C2962BA00EDB982 /* InstructionScreen.swift in Sources */,
+				3DD77B3F2C11982E004C3290 /* CategoryDelete.swift in Sources */,
+				3DD77B3C2C11982E004C3290 /* EmojiModel.swift in Sources */,
+				3DD77B382C11982D004C3290 /* UIColor.swift in Sources */,
+				3D4E98782C1ACA6B00C20E63 /* IBDesignables.swift in Sources */,
+				3DEF34972BA96F97007BD974 /* CustomKeyboardFile.swift in Sources */,
+				3DD77B412C11982E004C3290 /* KeyboardFooter.swift in Sources */,
+				3D070DA42BB59A52000CDB74 /* GlobalFile.swift in Sources */,
+				3DD77B3A2C11982E004C3290 /* Service.swift in Sources */,
+				3D00CF952BB2DD92000C5977 /* SettingsViewController.swift in Sources */,
+				3DD77B422C11982E004C3290 /* KeyboardHeader.swift in Sources */,
+				3D6573AB2C294E0D00EDB982 /* TranslateScreen.swift in Sources */,
+				3DD77B442C11982E004C3290 /* KeyboardView.swift in Sources */,
+				3D8271472C2ADDA10080EBA1 /* ApiHelper.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3DEF34832BA96F02007BD974 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3D7A342C2C18728A00B9AD61 /* KeyboardCell.swift in Sources */,
+				3D7A341F2C18728A00B9AD61 /* SwiftEmojiKeyboard.swift in Sources */,
+				3D7A342B2C18728A00B9AD61 /* KeyboardHeader.swift in Sources */,
+				3D7060342BBD581300A5FCC5 /* Constant.swift in Sources */,
+				3D7A34282C18728A00B9AD61 /* CategoryDelete.swift in Sources */,
+				3D7A34232C18728A00B9AD61 /* UIView.swift in Sources */,
+				3D7A34292C18728A00B9AD61 /* KeyboardCategories.swift in Sources */,
+				3D7A34222C18728A00B9AD61 /* UIColor.swift in Sources */,
+				3D7A341D2C18728A00B9AD61 /* Service.swift in Sources */,
+				3D7A342D2C18728A00B9AD61 /* KeyboardView.swift in Sources */,
+				3D9B43832BAAEF8C00D83231 /* ThemeTableViewCell.swift in Sources */,
+				3D9A19322C16D6A400A6D928 /* KeyboardViewController.swift in Sources */,
+				3D7A342A2C18728A00B9AD61 /* KeyboardFooter.swift in Sources */,
+				3D7A34212C18728A00B9AD61 /* HorizontalFloatingHeaderLayout.swift in Sources */,
+				3D7A34262C18728A00B9AD61 /* EmojiModel.swift in Sources */,
+				3D7A34242C18728A00B9AD61 /* Protocols.swift in Sources */,
+				3D7A34202C18728A00B9AD61 /* Constants.swift in Sources */,
+				3D7A34272C18728A00B9AD61 /* CategoryCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3DEF348D2BA96F02007BD974 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3DEF34862BA96F02007BD974 /* Arabic Keyboard Ex. */;
+			targetProxy = 3DEF348C2BA96F02007BD974 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3DEF34752BA96E8B007BD974 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DEF34762BA96E8B007BD974 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3DEF347A2BA96E8E007BD974 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3DEF347B2BA96E8E007BD974 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3DEF347E2BA96E8E007BD974 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3DEF347F2BA96E8E007BD974 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3DEF34812BA96E8E007BD974 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6BE28D0DA08FDEBE156EB0A5 /* Pods-Arabic Keyboard Ios.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Arabic Keyboard Ios/Arabic Keyboard Ios.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MTL7SH5Y39;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Arabic Keyboard Ios/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Arabic Keyboard";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = armv7;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DT_TOOLCHAIN_DIR)/us/lib/swift/ to $(TOOLCHAIN_DIR)/us/lib/swift/\"",
+					/usr/lib/swift,
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Arabic-Keyboard";
+				PRODUCT_MODULE_NAME = "$(PRODUCT_NAME:c99extidentifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3DEF34822BA96E8E007BD974 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 02772F76DBCC4489665CA4B2 /* Pods-Arabic Keyboard Ios.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Arabic Keyboard Ios/Arabic Keyboard Ios.entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MTL7SH5Y39;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Arabic Keyboard Ios/Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Arabic Keyboard";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.lifestyle";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIRequiredDeviceCapabilities = armv7;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(DT_TOOLCHAIN_DIR)/us/lib/swift/ to $(TOOLCHAIN_DIR)/us/lib/swift/\"",
+					/usr/lib/swift,
+				);
+				MACH_O_TYPE = mh_execute;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Arabic-Keyboard";
+				PRODUCT_MODULE_NAME = "$(PRODUCT_NAME:c99extidentifier)";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		3DEF34902BA96F02007BD974 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FD86B4A44059EABFB558B71A /* Pods-Arabic Keyboard Ex..debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "Arabic Keyboard Ex./Arabic Keyboard Ex..entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MTL7SH5Y39;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Arabic Keyboard Ex./Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Arabic Keyboard Ex.";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MACH_O_TYPE = mh_execute;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"$(inherited)",
+					"-framework",
+					"\"SideMenuSwift\"",
+					"-framework",
+					"\"SwiftyStoreKit\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Arabic-Keyboard.Arabic-Keyboard-Ex-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		3DEF34912BA96F02007BD974 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C7B3A0116EDF6AAAF34E003E /* Pods-Arabic Keyboard Ex..release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = "Arabic Keyboard Ex./Arabic Keyboard Ex..entitlements";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = MTL7SH5Y39;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Arabic Keyboard Ex./Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Arabic Keyboard Ex.";
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MACH_O_TYPE = mh_execute;
+				MARKETING_VERSION = 1.0;
+				OTHER_LDFLAGS = (
+					"-ObjC",
+					"$(inherited)",
+					"-framework",
+					"\"SideMenuSwift\"",
+					"-framework",
+					"\"SwiftyStoreKit\"",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Arabic-Keyboard.Arabic-Keyboard-Ex-";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3DEF34672BA96E8B007BD974 /* Build configuration list for PBXProject "Arabic Keyboard Ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DEF347E2BA96E8E007BD974 /* Debug */,
+				3DEF347F2BA96E8E007BD974 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DEF34802BA96E8E007BD974 /* Build configuration list for PBXNativeTarget "Arabic Keyboard Ios" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DEF34812BA96E8E007BD974 /* Debug */,
+				3DEF34822BA96E8E007BD974 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3DEF348F2BA96F02007BD974 /* Build configuration list for PBXNativeTarget "Arabic Keyboard Ex." */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3DEF34902BA96F02007BD974 /* Debug */,
+				3DEF34912BA96F02007BD974 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3DEF34642BA96E8B007BD974 /* Project object */;
+}

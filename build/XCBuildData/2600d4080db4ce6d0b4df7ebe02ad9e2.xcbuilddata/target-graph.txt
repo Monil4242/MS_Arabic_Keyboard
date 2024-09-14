@@ -1,0 +1,62 @@
+Target dependency graph (26 targets)
+Target 'RevenueCat_CustomEntitlementComputation' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_CustomEntitlementComputation' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCat_CustomEntitlementComputation' in project 'RevenueCat'
+Target 'RevenueCat_CustomEntitlementComputation' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCat_CustomEntitlementComputation' in project 'RevenueCat'
+Target 'RevenueCat_RevenueCat_CustomEntitlementComputation' in project 'RevenueCat' (no dependencies)
+Target 'ReceiptParser' in project 'RevenueCat'
+➜ Explicit dependency on target 'ReceiptParser' in project 'RevenueCat'
+Target 'ReceiptParser' in project 'RevenueCat' (no dependencies)
+Target 'Arabic Keyboard Ios' in project 'Arabic Keyboard Ios'
+➜ Explicit dependency on target 'Arabic Keyboard Ex.' in project 'Arabic Keyboard Ios'
+➜ Implicit dependency on target 'Pods-Arabic Keyboard Ios' in project 'Pods' via file 'Pods_Arabic_Keyboard_Ios.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SideMenuSwift-iOS17.3' in project 'Pods' via options '-framework SideMenuSwift' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SwiftyStoreKit-iOS17.3' in project 'Pods' via options '-framework SwiftyStoreKit' in build setting 'OTHER_LDFLAGS'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'ISEmojiView' in project 'ISEmojiView'
+➜ Explicit dependency on target 'RevenueCatUI' in project 'RevenueCat'
+Target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+Target 'RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCatUI' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+Target 'RevenueCat_RevenueCatUI' in project 'RevenueCat' (no dependencies)
+Target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCat' in project 'RevenueCat'
+Target 'RevenueCat' in project 'RevenueCat'
+➜ Explicit dependency on target 'RevenueCat_RevenueCat' in project 'RevenueCat'
+Target 'RevenueCat_RevenueCat' in project 'RevenueCat' (no dependencies)
+Target 'Pods-Arabic Keyboard Ios' in project 'Pods'
+➜ Explicit dependency on target 'Google-Mobile-Ads-SDK' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUserMessagingPlatform' in project 'Pods'
+➜ Explicit dependency on target 'SideMenuSwift-iOS17.3' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyStoreKit-iOS17.3' in project 'Pods'
+Target 'Google-Mobile-Ads-SDK' in project 'Pods'
+➜ Explicit dependency on target 'Google-Mobile-Ads-SDK-GoogleMobileAdsResources' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUserMessagingPlatform' in project 'Pods'
+Target 'GoogleUserMessagingPlatform' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUserMessagingPlatform-UserMessagingPlatformResources' in project 'Pods'
+Target 'GoogleUserMessagingPlatform-UserMessagingPlatformResources' in project 'Pods' (no dependencies)
+Target 'Google-Mobile-Ads-SDK-GoogleMobileAdsResources' in project 'Pods' (no dependencies)
+Target 'Arabic Keyboard Ex.' in project 'Arabic Keyboard Ios'
+➜ Implicit dependency on target 'Pods-Arabic Keyboard Ex.' in project 'Pods' via file 'Pods_Arabic_Keyboard_Ex_.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SideMenuSwift-iOS17.3' in project 'Pods' via options '-framework SideMenuSwift' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SwiftyStoreKit-iOS17.3' in project 'Pods' via options '-framework SwiftyStoreKit' in build setting 'OTHER_LDFLAGS'
+➜ Explicit dependency on target 'ISEmojiView' in project 'ISEmojiView'
+Target 'ISEmojiView' in project 'ISEmojiView'
+➜ Explicit dependency on target 'ISEmojiView' in project 'ISEmojiView'
+➜ Explicit dependency on target 'ISEmojiView_ISEmojiView' in project 'ISEmojiView'
+Target 'ISEmojiView' in project 'ISEmojiView'
+➜ Explicit dependency on target 'ISEmojiView_ISEmojiView' in project 'ISEmojiView'
+Target 'ISEmojiView_ISEmojiView' in project 'ISEmojiView' (no dependencies)
+Target 'SwiftyStoreKit-iOS17.3' in project 'Pods' (no dependencies)
+Target 'SideMenuSwift-iOS17.3' in project 'Pods' (no dependencies)
+Target 'Pods-Arabic Keyboard Ex.' in project 'Pods'
+➜ Explicit dependency on target 'SideMenuSwift-iOS17.4' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyStoreKit-iOS17.4' in project 'Pods'
+Target 'SwiftyStoreKit-iOS17.4' in project 'Pods' (no dependencies)
+Target 'SideMenuSwift-iOS17.4' in project 'Pods' (no dependencies)

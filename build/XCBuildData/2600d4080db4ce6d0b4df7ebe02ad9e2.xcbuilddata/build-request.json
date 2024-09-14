@@ -1,0 +1,143 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "1d86f2521fb5329da0d9d10e07b261666606891b23ecca69ce8d120d18bb6847"
+    },
+    {
+      "guid" : "1d86f2521fb5329da0d9d10e07b2616645f4feffa9ccfaf2327635c6f3c991b8"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:ISEmojiView"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:ISEmojiView"
+    },
+    {
+      "guid" : "PACKAGE-RESOURCE:ISEmojiView"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42cd53d937e824fad9f4527eeeb684cb40"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42468089666b04a941512e80a0cc9cf153"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42c777611770584bd7c20ebf80e3d30200"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd424a8eac8d5b6bc897e9823b3668d5ca68"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42a562572552a1d05bc023441d67b2f973"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42e24dfdd819b20708e7842b8982a6dd29"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4227a2b0999de27750527b169597cde9b0"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42bfe06131b9322b1f627e4bf55696fa9a"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd429efd21488540eec695d91819ea9d854e"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42ec57a096622978008cd8e9101c96d10a"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:ReceiptParser"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:ReceiptParser"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:RevenueCat"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RevenueCat"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:RevenueCatUI"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RevenueCatUI"
+    },
+    {
+      "guid" : "PACKAGE-PRODUCT:RevenueCat_CustomEntitlementComputation"
+    },
+    {
+      "guid" : "PACKAGE-TARGET:RevenueCat_CustomEntitlementComputation"
+    },
+    {
+      "guid" : "PACKAGE-RESOURCE:RevenueCat"
+    },
+    {
+      "guid" : "PACKAGE-RESOURCE:RevenueCatUI"
+    },
+    {
+      "guid" : "PACKAGE-RESOURCE:RevenueCat_CustomEntitlementComputation"
+    }
+  ],
+  "containerPath" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/viprak-disha/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/viprak-disha/Library/Developer/Xcode/DerivedData/Arabic_Keyboard_Ios-dljrygxkugnzfxcbhoqajzspdoyn/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/viprak-disha/Library/Developer/Xcode/DerivedData/Arabic_Keyboard_Ios-dljrygxkugnzfxcbhoqajzspdoyn/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,3",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.4.1",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone12,3",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "00008030-0004183E0C84802E",
+          "TARGET_DEVICE_MODEL" : "iPhone12,3",
+          "TARGET_DEVICE_OS_VERSION" : "17.4.1",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

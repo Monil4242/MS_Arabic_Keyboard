@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Debug-iphoneos/SideMenuSwift-iOS17.3/SideMenuSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.3.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Debug-iphoneos/SideMenuSwift-iOS17.3/SideMenuSwift.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "SideMenuSwift-Swift.h",
+      'external-contents': "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.3.build/unextended-interface-header.h",
+    }]
+    }]
+}

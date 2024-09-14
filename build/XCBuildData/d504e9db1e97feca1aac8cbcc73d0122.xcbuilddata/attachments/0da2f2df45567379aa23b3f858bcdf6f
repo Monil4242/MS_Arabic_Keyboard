@@ -1,0 +1,108 @@
+{
+  "" : {
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuSwift-iOS17.4-master.dia",
+    "emit-module-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuSwift-iOS17.4-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuSwift-iOS17.4-master-emit-module.dia",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuSwift-iOS17.4-master.swiftdeps"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/BasicTransitionAnimator.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/BasicTransitionAnimator~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/Delegate.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Delegate~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/Preferences.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Preferences~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/Segue.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/Segue~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/SideMenuController.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/SideMenuController~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/StatusBar.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/StatusBar~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/TransitionContext.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/TransitionContext~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/UIView+Container.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIView+Container~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/UIViewController+Container.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+Container~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Pods/SideMenuSwift/Sources/SideMenu/UIViewController+SideMenu.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Pods.build/Debug-iphoneos/SideMenuSwift-iOS17.4.build/Objects-normal/arm64/UIViewController+SideMenu~partial.swiftmodule"
+  }
+}

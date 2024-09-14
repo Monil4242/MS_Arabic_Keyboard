@@ -1,0 +1,298 @@
+{
+  "" : {
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Arabic Keyboard Ios-master.dia",
+    "emit-module-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Arabic Keyboard Ios-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Arabic Keyboard Ios-master-emit-module.dia",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Arabic Keyboard Ios-master.swiftdeps"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ex./CustomKeyboardFile.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CustomKeyboardFile~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/AppDelegate.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/AppOpedAddManager.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/AppOpedAddManager~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/Controller/SwiftEmojiKeyboard.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SwiftEmojiKeyboard~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/Global/Constants.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-3a0430c18d439a93acf979f4feb58dc9~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/Global/GlobalFile.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GlobalFile~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/SceneDelegate.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/Service/Service.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Service~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/SettingScreen/SettingsViewController.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SettingsViewController~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/SideMenu VC/SideMenuViewController.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuViewController~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/SideMenu VC/table View Cell/SideMenuTableViewCell.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SideMenuTableViewCell~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/SplashScreen.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/SplashScreen~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/ThemeScreen/TableView Cell/ThemeTableViewCell.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeTableViewCell~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/ThemeScreen/ThemeViewController.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ThemeViewController~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/Arabic Keyboard Ios/ViewController.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/Model/EmojiModel.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/EmojiModel~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/Protocols/Protocols.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Protocols~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/Utils/Constants.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/Constants-bb14442d4c26bbd10ef707807349d133~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/Utils/HorizontalFloatingHeaderLayout.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/HorizontalFloatingHeaderLayout~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/Utils/UIColor.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIColor~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/Utils/UIView.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/UIView~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardCategories/CategoryCell.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryCell~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardCategories/CategoryDelete.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/CategoryDelete~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardCategories/KeyboardCategories.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCategories~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardSupplementaryViews/KeyboardFooter.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardFooter~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardSupplementaryViews/KeyboardHeader.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardHeader~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardView/KeyboardCell.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardCell~partial.swiftmodule"
+  },
+  "/Users/viprak-disha/Desktop/KeyboardDemo/KeyboardDemo/View/KeyboardView/KeyboardView.swift" : {
+    "const-values" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.swiftconstvalues",
+    "dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.d",
+    "diagnostics" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.dia",
+    "index-unit-output-path" : "/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.o",
+    "llvm-bc" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.bc",
+    "object" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.o",
+    "swift-dependencies" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView.swiftdeps",
+    "swiftmodule" : "/Users/viprak-disha/Desktop/Arabic Keyboard Ios 3/build/Arabic Keyboard Ios.build/Debug-iphoneos/Arabic Keyboard Ios.build/Objects-normal/arm64/KeyboardView~partial.swiftmodule"
+  }
+}

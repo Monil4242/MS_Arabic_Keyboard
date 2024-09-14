@@ -1,0 +1,10 @@
+framework module SwiftyStoreKit {
+  umbrella header "SwiftyStoreKit-iOS17.4-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwiftyStoreKit.__Swift {
+  exclude header "SwiftyStoreKit-Swift.h"
+}

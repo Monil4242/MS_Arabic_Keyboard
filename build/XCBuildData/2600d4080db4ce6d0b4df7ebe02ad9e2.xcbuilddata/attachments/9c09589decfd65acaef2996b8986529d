@@ -1,0 +1,4 @@
+module RevenueCat_CustomEntitlementComputation {
+header "RevenueCat_CustomEntitlementComputation-Swift.h"
+export *
+}

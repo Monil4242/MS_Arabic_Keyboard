@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC3T6Q_9jXBBjpkpHTlIr2cEk7lfX1v0zE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>817709225894</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Arabic-Keyboard</string>
+	<key>PROJECT_ID</key>
+	<string>arabic-keyboard-b0f40</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arabic-keyboard-b0f40.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:817709225894:ios:17482559e03384af74a167</string>
+</dict>
+</plist>

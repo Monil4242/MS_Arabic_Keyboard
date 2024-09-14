@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_Arabic_Keyboard_Ex_VersionString[];
+ extern const double Pods_Arabic_Keyboard_Ex_VersionNumber;
+
+ const unsigned char Pods_Arabic_Keyboard_Ex_VersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_Arabic_Keyboard_Ex_  PROJECT:Pods-1" "\n";
+ const double Pods_Arabic_Keyboard_Ex_VersionNumber __attribute__ ((used)) = (double)1.;
